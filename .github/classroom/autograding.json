@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Unit Tests",
+      "setup": "",
+      "run": "python -m unittest discover src",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
